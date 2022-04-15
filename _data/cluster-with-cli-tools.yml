@@ -37,3 +37,7 @@
 - topic: KubeHelper
   title: KubeHelper - simplifies many daily Kubernetes cluster tasks through a web interface.
   url: https://github.com/KubeHelper/kubehelper
+
+- topic: Kured
+  title: Kured - daemonset that performs safe automatic node reboots.
+  url: https://github.com/weaveworks/kured
